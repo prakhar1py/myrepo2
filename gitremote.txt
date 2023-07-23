@@ -1,6 +1,11 @@
 yo yo honey singer
 new change
+<<<<<<< HEAD
 <<<<<<< Updated upstream
  added new change 2
 =======
 >>>>>>> Stashed changes
+=======
+ added new change 2
+jai shree ram
+>>>>>>> 4aa8643bb72d4783f7cd223d66265ed9083575ed
